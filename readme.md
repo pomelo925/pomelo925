@@ -1,3 +1,17 @@
+**Good Night ... Hold on ... It's morning now ?**
+
+This is a brainless guy trying hard on playing robotic comp ;; 
+
+<a href="https://www.instagram.com/liebestraum_925/">
+  <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
+</a>
+<a href="https://discord.gg/U7v4aVNp">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
+</a>
+
+<br />
+<hr>
+
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pomelo925&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="700" height="200"/>
 </p> 
