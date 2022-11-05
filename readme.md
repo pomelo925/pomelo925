@@ -1,7 +1,6 @@
 <p align = "center">
   <img  src = "https://github-readme-stats.vercel.app/api?username=pomelo925&show_icons=true&theme=radical&line_height=27">
-  
-  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pomelo925&hide=html,css,java,shaderlab,kotlin,hlsl&theme=radical">
+  $\space$ $\space$<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pomelo925&hide=html,css,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
 <p align = "center">
