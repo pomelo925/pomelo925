@@ -1,14 +1,16 @@
 <p align = "center">
- <img src="https://activity-graph.herokuapp.com/graph?username=pomelo925&theme=redical">
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pomelo925&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="800" height="250"/>
 </p> 
 
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pomelo925&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" />
-</p> 
-<p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=pomelo925&show_icons=true&theme=radical&line_height=27">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=pomelo925&show_icons=true&theme=radical&line_height=27" width="580" height="300">
   $\space$ $\space$<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pomelo925&hide=html,css,shaderlab,kotlin,hlsl&theme=radical">
 </p>
+
+<p align = "center">
+ <img src="https://activity-graph.herokuapp.com/graph?username=pomelo925&theme=redical">
+</p> 
+
 
 <hr>
 <h2 align="center">:droplet:  Repositories :droplet:</h2>
