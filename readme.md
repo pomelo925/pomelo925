@@ -3,13 +3,8 @@
 <div align="center">
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pomelo925&theme=cobalt&border_radius=10&date_format=%5BY.%5Dn.j&background=1B1E22&border=41220B)](https://git.io/streak-stats)
 </div>
-  
-<div align="center">
-    <img height="300px" src="https://activity-graph.herokuapp.com/graph?username=holic-x&theme=github"/>
-</div>
 
 <div align="center">
-    <img height="300px" src="https://metrics.lecoq.io/holic-x?template=classic&config.timezone=Asia%2FShanghai"/>
+	<img src="https://cdn.jsdelivr.net/gh/holic-x/holic-x/assets/github-contribution-grid-snake.svg" />
 </div>
-
 
