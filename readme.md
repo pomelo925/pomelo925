@@ -8,6 +8,11 @@ This is a brainless guy trying hard on playing robotic comp ;;
 <a href="https://discord.gg/U7v4aVNp">
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/discord.svg" />
 </a>
+<a href="https://www.youtube.com/@pomelol">
+  <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
+</a>
+
+
 
 <br />
 <hr>
