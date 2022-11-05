@@ -1,9 +1,9 @@
 <p align = "center">
- <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pomelo925&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="800" height="250"/>
+ <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pomelo925&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="600" height="150"/>
 </p> 
 
 <p align = "center">
-  <img  src = "https://github-readme-stats.vercel.app/api?username=pomelo925&show_icons=true&theme=radical&line_height=27" width="580" height="300">
+  <img  src = "https://github-readme-stats.vercel.app/api?username=pomelo925&show_icons=true&theme=radical&line_height=27" width="300" height="150">
   $\space$ $\space$<img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=pomelo925&hide=html,css,shaderlab,kotlin,hlsl&theme=radical">
 </p>
 
