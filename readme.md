@@ -12,7 +12,7 @@ brainless guy tryna hard on robotic comp ; -;
   <img align="left" alt="Abhishek's Discord" width="22px" src="https://raw.githubusercontent.com/peterthehan/peterthehan/master/assets/youtube.svg" />
 </a>
 
-
+![](https://komarev.com/ghpvc/?username=pomelo925)
 
 <br />
 <hr>
