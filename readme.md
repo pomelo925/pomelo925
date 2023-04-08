@@ -1,4 +1,4 @@
-brainless boy tryna hard on robotic comp ; -; 
+nah nah not good enough
 
 <a href="https://www.instagram.com/liebestraum_925/">
   <img align="left" alt="Abhishek's Instagram" width="22px" src="https://raw.githubusercontent.com/hussainweb/hussainweb/main/icons/instagram.png" />
