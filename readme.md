@@ -1,5 +1,5 @@
-##　NTHU PME
-###　會弄點機器人控制和視覺，但程式基本功超爛的考研仔 :)
+##NTHU PME
+###會弄點機器人控制和視覺，但程式基本功超爛的考研仔 :)
 
 ![](https://komarev.com/ghpvc/?username=pomelo925)
 
