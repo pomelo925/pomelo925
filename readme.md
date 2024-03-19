@@ -1,6 +1,4 @@
-**Good Night ... Hold on ... It's morning now ?**
-
-brainless guy tryna hard on robotic comp ; -; 
+好想變機器人跟視覺系統電神...
 
 ![](https://komarev.com/ghpvc/?username=pomelo925)
 
