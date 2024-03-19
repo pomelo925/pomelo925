@@ -1,5 +1,6 @@
-##NTHU PME
-###會弄點機器人控制和視覺，但程式基本功超爛的考研仔 :)
+### NTHU PME
+
+#### 會弄點機器人控制和視覺，但程式基本功超爛的考研仔 :(((
 
 ![](https://komarev.com/ghpvc/?username=pomelo925)
 
@@ -8,6 +9,19 @@
 <p align = "center">
  <img  src="https://github-readme-streak-stats.herokuapp.com/?user=pomelo925&show_icons=true&locale=en&layout=compact&theme=radical&line_height=0" width="700" height="200"/>
 </p> 
+
+<p align="center">
+  <a href="https://github.com/pomelo925/">
+     <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pomelo925&show_icons=true&theme=radical&include_all_commits=true&hide_border=false&hide=prs,issues,contribs&count_private=true"
+        alt="pomelo925's Github Stats" height="200" width="500"/>
+   </a
+   <a href="https://github.com/pomelo925">
+       <img 
+         align="center" 
+         src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pomelo925&layout=compact&hide_border=false&theme=radical" 
+         height="200"/>
+    </a>
+</p>
 
 <h2 align="center">:droplet:  Repositories :droplet:</h2>
 
