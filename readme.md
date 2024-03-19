@@ -3,7 +3,6 @@
 
 ![](https://komarev.com/ghpvc/?username=pomelo925)
 
-<br />
 <hr>
 
 <p align = "center">
