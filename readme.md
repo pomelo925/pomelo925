@@ -13,13 +13,13 @@
 <p align="center">
   <a href="https://github.com/pomelo925/">
      <img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api?username=pomelo925&show_icons=true&theme=radical&include_all_commits=true&hide_border=false&hide=prs,issues,contribs&count_private=true"
-        alt="pomelo925's Github Stats" height="200" width="300"/>
+        alt="pomelo925's Github Stats" height="200" width="800"/>
    </a
    <a href="https://github.com/pomelo925">
        <img 
          align="center" 
          src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=pomelo925&layout=compact&hide_border=false&theme=radical" 
-         height="200"/>
+         width="800"/>
     </a>
 </p>
 
