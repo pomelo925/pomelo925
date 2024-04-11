@@ -1,6 +1,6 @@
 ### NTHU PME
 
-我神麼都做不好...
+菜菜ㄉ大學生
 
 ![](https://komarev.com/ghpvc/?username=pomelo925)
 
