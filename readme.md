@@ -14,22 +14,22 @@
 </picture>
 
 ```cpp
+#include <bits/stdc++.h>
 using namespace std;
 
 class Person {
 private:
-	string name, title, email, website;
-	bool single;
+  string name = "pomelo925";
+  string title =" Robot Software/Hardware Developer";
+  string email = "yoseph.huang@gmail.com";
+  string website = "https://github.com/pomelo925";
+  bool single = true;
 
 public:
-	Person(){
-		this->name = "pomelo925";
-		this->title = "Robot Software/Hardware Developer";
-		this->email = "yoseph.huang@gmail.com";
-		this->website = "https://github.com/pomelo925";
-		this->single = true;
-	}
-}
+  void introduce(){};
+  Person(){ introduce(); }
+};
+
 ```
 
 ```cmd
@@ -41,40 +41,6 @@ Hi, I'm a Taiwanese college student enthusiastic about robot !
 <div align="center">
 
 ![](https://komarev.com/ghpvc/?username=pomelo925) ![Followers](https://img.shields.io/github/followers/pomelo925?label=Followers) ![Stars](https://img.shields.io/github/stars/pomelo925?label=Stars)
-
-<!--START_SECTION:waka-->
-**I'm an Early 🐤** 
-
-```text
-🌞 Morning                589 commits         ███░░░░░░░░░░░░░░░░░░░░░░   10.63 % 
-🌆 Daytime                2399 commits        ███████████░░░░░░░░░░░░░░   43.28 % 
-🌃 Evening                1896 commits        █████████░░░░░░░░░░░░░░░░   34.21 % 
-🌙 Night                  659 commits         ███░░░░░░░░░░░░░░░░░░░░░░   11.89 % 
-```
-
-
-📊 **This Week I Spent My Time On** 
-
-```text
-🕑︎ Time Zone: Asia/Taipei
-
-💬 Programming Languages: 
-JavaScript               9 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.03 % 
-Markdown                 4 hrs 22 mins       █████░░░░░░░░░░░░░░░░░░░░   18.84 % 
-CSS                      3 hrs 2 mins        ███░░░░░░░░░░░░░░░░░░░░░░   13.11 % 
-TypeScript               2 hrs 22 mins       ███░░░░░░░░░░░░░░░░░░░░░░   10.25 % 
-HTML                     1 hr 2 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   04.48 % 
-
-🔥 Editors: 
-VS Code                  23 hrs 11 mins      █████████████████████████   100.00 % 
-
-💻 Operating System: 
-Windows                  23 hrs 11 mins      █████████████████████████   100.00 % 
-```
-
-
- Last Updated on 28-05-2024 17:19:09 UTC
-<!--END_SECTION:waka-->
   
 </div>
 
@@ -135,9 +101,6 @@ Windows                  23 hrs 11 mins      ███████████�
 [![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20613667/pomelo925)
 
 </div>
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
 
 <!-- Support me -->
 <h3 align="center">☕Support Me☕</h3>
