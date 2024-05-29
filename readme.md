@@ -10,31 +10,31 @@
 
 <picture> 
 <a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="/assets//images/developer.webp" align="right" width="350">
+<img src="/assets/images/ai-interface.gif" align="right" width="350">
 </a>
 </picture>
 
 ```js
 "use creativity";
-import { Person } from 'indonesia';
+import { Person } from 'Taiwan';
 
 new Person({
-    name   : 'Deri Kurniawan',
-    title  : 'Full Stack Developer',
-    email  : 'deri.netuchi@gmail.com',
+    name   : 'pomelo925',
+    title  : 'Robot Software/Hardware Developer',
+    email  : 'yoseph.huang@gmail.com',
     website: 'https://deri.my.id',
-    married: !!!true,
+    single: !!!true,
 }).introduce();
 ```
 
 ```cmd
-D:\Deri-Kurniawan> node index.js
-Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
+D:\Pomelo925> g++ hello.cpp -o example
+Nice to Meet You!
 ```
 
 <div align="center">
 
-![](https://komarev.com/ghpvc/?username=Deri-Kurniawan) [![wakatime](https://wakatime.com/badge/user/22520ecf-cee6-4d59-a21f-b5d7f4f8e491.svg)](https://wakatime.com/@22520ecf-cee6-4d59-a21f-b5d7f4f8e491) ![Followers](https://img.shields.io/github/followers/Deri-Kurniawan?label=Followers) ![Stars](https://img.shields.io/github/stars/Deri-Kurniawan?label=Stars)
+![](https://komarev.com/ghpvc/?username=pomelo925) ![Followers](https://img.shields.io/github/followers/pomelo925?label=Followers) ![Stars](https://img.shields.io/github/stars/pomelo925?label=Stars)
 
 <!--START_SECTION:waka-->
 **I'm an Early 🐤** 
@@ -50,7 +50,7 @@ Hi, my name is Deri Kurniawan, I'm a Full Stack Developer from Indonesia.
 📊 **This Week I Spent My Time On** 
 
 ```text
-🕑︎ Time Zone: Asia/Jakarta
+🕑︎ Time Zone: Asia/Taipei
 
 💬 Programming Languages: 
 JavaScript               9 hrs 2 mins        ██████████░░░░░░░░░░░░░░░   39.03 % 
@@ -84,7 +84,7 @@ Windows                  23 hrs 11 mins      ███████████�
 <!--tech stack icons-->
 <p align="center">
 <a href="https://skillicons.dev">
-<img src="https://skillicons.dev/icons?i=js,php,ts,react,nextjs,tailwindcss,nodejs,express,laravel,mysql,planetscale,git,vscode,figma,vercel,vite,cloudflare,prisma&perline=6" />
+<img src="https://skillicons.dev/icons?i=linux,ubuntu,windows,vscode,raspberrypi,c,cpp,docker,opencv,python,git,github,githubactions,visualstudio,arduino,pycharm,stackoverflow,matlab,markdown,notion,obsidian,cmake,ros,html,css,java,javascript,react,electron,tauri,sketchup,npm&perline=8" />
 </a>
 </p>
 
@@ -94,7 +94,7 @@ Windows                  23 hrs 11 mins      ███████████�
 <h3 align="center">🔥Streak Stats🔥</h3>
 
 <!-- custom streak stats: https://git.io/streak-stats -->
-<p align="center"><img src="https://streak-stats.demolab.com?user=Deri-Kurniawan&hide_border=true&type=png" alt="Deri-Kurniawan" /></p>
+<p align="center"><img src="https://streak-stats.demolab.com?user=pomelo925&theme=gruvbox&border_radius=15" alt="pomelo925" /></p>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
@@ -103,23 +103,17 @@ Windows                  23 hrs 11 mins      ███████████�
 
 <div>
   <p align="center">
-	<a href="https://github.com/Deri-Kurniawan/windows-11-os">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=windows-11-os&theme=transparent" alt="GitHub Stats" />
+	<a href="https://github.com/pomelo925/tel2022_DoItTomorrow">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=pomelo925&repo=tel2022_DoItTomorrow&theme=gruvbox" alt="GitHub Stats" />
     	</a>
-	    <a href="https://github.com/Deri-Kurniawan/3d-portfolio">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=3d-portfolio&theme=transparent" alt="GitHub Stats" />
+	    <a href="https://github.com/pomelo925/eurobot2024-ladybug">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=pomelo925&repo=eurobot2024-ladybug&theme=gruvbox" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/plant_shop_mobile_app">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=plant_shop_mobile_app&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/pomelo925/realsense-ros-env">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=pomelo925&repo=realsense-ros-env&theme=gruvbox" alt="GitHub Stats" />
     	</a>
-    	<a href="https://github.com/Deri-Kurniawan/derizer">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=derizer&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/screen-recorder-online">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=screen-recorder-online&theme=transparent" alt="GitHub Stats" />
-    	</a>
-    	<a href="https://github.com/Deri-Kurniawan/mini-framework">
-      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=Deri-Kurniawan&repo=mini-framework&theme=transparent" alt="GitHub Stats" />
+    	<a href="https://github.com/pomelo925/wine-pourer-rpi">
+      		<img src="https://github-readme-stats.vercel.app/api/pin/?username=pomelo925&repo=wine-pourer-rpi&theme=gruvbox" alt="GitHub Stats" />
     	</a>
 </div>
 
@@ -130,12 +124,10 @@ Windows                  23 hrs 11 mins      ███████████�
 <h3 align="center">🤝Connect with Me🤝</h3>
 <div align="center">
 
-[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://bitlie.deri.my.id/linkedin)
+[![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E8%88%88%E4%BD%91-%E9%BB%83-0285a5279/)
 [![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
-[![image](https://img.shields.io/badge/Dribble-EA4C89?style=for-the-badge&logo=dribbble&logoColor=white)](https://bitlie.deri.my.id/dribbble)
-[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://bitlie.deri.my.id/stackoverflow)
-[![image](https://img.shields.io/badge/UIverse-04A4FB?style=for-the-badge&logo=brave&logoColor=white)](https://bitlie.deri.my.id/uiverse)
-  
+[![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20613667/pomelo925)
+
 </div>
 
 <!--x axis divider-->
@@ -146,19 +138,13 @@ Windows                  23 hrs 11 mins      ███████████�
 
 <div align="center">
   
-[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://bitlie.deri.my.id/buymeacoffee) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://bitlie.deri.my.id/ko-fi)
+[![image](https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://buymeacoffee.com/pomelo925
+) [![image](https://img.shields.io/badge/ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/pomelo925)
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 ![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
-
-<!--x axis divider-->
-<img src="/assets/images/horizontal-divider-gradient.gif">
-
-<div align="center">
-    Made with ❤️ by <a href="https://deri.my.id" target="_blank">Deri Kurniawan</a>
-</div>
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
