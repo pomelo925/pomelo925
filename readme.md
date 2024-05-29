@@ -9,7 +9,7 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<img src="/assets/images/ai-interface.gif" align="right" width="500" height="300">
+<img src="/assets/images/ai-interface.gif" align="right" width="470" height="280">
 </a>
 </picture>
 
