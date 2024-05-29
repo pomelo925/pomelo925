@@ -113,7 +113,7 @@ Hi, I'm a Taiwanese college student enthusiastic about robot !
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
-![Commit Snake History SVG](https://raw.githubusercontent.com/Deri-Kurniawan/Deri-Kurniawan/output/github-snake.svg)
+![Commit Snake History SVG](https://raw.githubusercontent.com/pomelo925/pomelo925/output/github-snake.svg)
 
 <!--x axis divider-->
 <img src="/assets/images/horizontal-divider-gradient.gif">
