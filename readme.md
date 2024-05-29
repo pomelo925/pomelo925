@@ -9,27 +9,33 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<a href="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Developer">
-<img src="/assets/images/ai-interface.gif" align="right" width="350">
+<img src="/assets/images/ai-interface.gif" align="right" width="450">
 </a>
 </picture>
 
-```js
-"use creativity";
-import { Person } from 'Taiwan';
+```cpp
+using namespace std;
 
-new Person({
-    name   : 'pomelo925',
-    title  : 'Robot Software/Hardware Developer',
-    email  : 'yoseph.huang@gmail.com',
-    website: 'https://deri.my.id',
-    single: !!!true,
-}).introduce();
+class Person {
+private:
+	string name, title, email, website;
+	bool single;
+
+public:
+	Person(){
+		this->name = "pomelo925";
+		this->title = "Robot Software/Hardware Developer";
+		this->email = "yoseph.huang@gmail.com";
+		this->website = "https://github.com/pomelo925";
+		this->single = true;
+	}
+}
 ```
 
 ```cmd
-D:\Pomelo925> g++ hello.cpp -o example
-Nice to Meet You!
+D:\pomelo925> g++ introduction.cpp -o example
+D:\pomelo925> ./introduction
+Hi, I'm a Taiwanese college student enthusiastic about robot !
 ```
 
 <div align="center">
