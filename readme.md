@@ -9,7 +9,7 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<img src="/assets/images/ai-interface.gif" align="right" width="450" height="280">
+<img src="/assets/images/ai-interface.gif" align="right" width="450" height="250">
 </a>
 </picture>
 
@@ -97,7 +97,7 @@ Hi, I'm a Taiwanese college student enthusiastic about robot !
 <div align="center">
 
 [![image](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/%E8%88%88%E4%BD%91-%E9%BB%83-0285a5279/)
-[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://bitlie.deri.my.id/instagram)
+[![image](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/tw_pomelo925/)
 [![image](https://img.shields.io/badge/Stack%20Overflow-EF8236?style=for-the-badge&logo=stackoverflow&logoColor=white)](https://stackoverflow.com/users/20613667/pomelo925)
 
 </div>
