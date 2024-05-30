@@ -9,23 +9,20 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<img src="/assets/images/ai-interface.gif" align="right" width="570" height="350">
+<img src="/assets/images/ai-interface.gif" align="right" width="450" height="280">
 </a>
 </picture>
 
 ```cpp
-#include <bits/stdc++.h>
-using namespace std;
-
 class Person {
 private:
-  string name = "pomelo925";
-  string title =" Robot Software/Hardware Developer";
-  string email = "yoseph.huang@gmail.com";
+  std::string name = "pomelo925";
+  std::string title =" Robot Software/Hardware Developer";
+  std::string email = "yoseph.huang@gmail.com";
+  std::bool is_single = true;
 
-public:
-  void introduce(){};
-  Person(){ introduce(); }
+public: 
+  Person(){ [](){}; };
 };
 
 ```
