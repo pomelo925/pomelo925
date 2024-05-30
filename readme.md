@@ -9,7 +9,7 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<img src="/assets/images/ai-interface.gif" align="right" width="450" height="250">
+<img src="/assets/images/ai-interface.gif" align="right" width="570" height="350">
 </a>
 </picture>
 
@@ -22,8 +22,6 @@ private:
   string name = "pomelo925";
   string title =" Robot Software/Hardware Developer";
   string email = "yoseph.huang@gmail.com";
-  string website = "https://github.com/pomelo925";
-  bool single = true;
 
 public:
   void introduce(){};
@@ -33,7 +31,7 @@ public:
 ```
 
 ```cmd
-D:\pomelo925> g++ introduction.cpp -o example
+D:\pomelo925> g++ introduction.cpp -o introduction
 D:\pomelo925> ./introduction
 Hi, I'm a Taiwanese college student enthusiastic about robot !
 ```
