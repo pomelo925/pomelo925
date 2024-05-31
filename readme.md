@@ -9,17 +9,17 @@
 <img src="/assets/images/horizontal-divider-gradient.gif">
 
 <picture> 
-<img src="/assets/images/ai-interface.gif" align="right" width="450" height="280">
+<img src="/assets/images/ai-interface.gif" align="right" width="520" height="290">
 </a>
 </picture>
 
 ```cpp
 class Person {
 private:
-  std::string name = "pomelo925";
-  std::string title =" Robot Software/Hardware Developer";
-  std::string email = "yoseph.huang@gmail.com";
-  std::bool is_single = true;
+  string name = "pomelo925";
+  string title =" Robot Software/Hardware Developer";
+  string email = "yoseph.huang@gmail.com";
+  bool is_single = true;
 
 public: 
   Person(){ [](){}; };
